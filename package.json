@@ -1,8 +1,14 @@
 {
   "name": "vue-cli-plugin-for-mpvue",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "index.js",
   "author": "youngdze <youngdze94@gmail.com>",
+  "description": "a vue-cli3 plugin for mpvue",
+  "homepage": "https://github.com/youngdze/vue-cli-plugin-for-mpvue",
+  "bugs": {
+    "url": "https://github.com/youngdze/vue-cli-plugin-for-mpvue/issues",
+    "email": "youngdze94@gmail.com"
+  },
   "license": "MIT",
   "dependencies": {
     "babel-loader": "^7.1.5",

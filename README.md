@@ -4,7 +4,7 @@
 
 ```json
 "devDependencies": {
-    "@vue/cli-plugin-for-mpvue": "v1.0.0"
+    "vue-cli-plugin-for-mpvue": "v1.0.1"
 }
 ```
 
