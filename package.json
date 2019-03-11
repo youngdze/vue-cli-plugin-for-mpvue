@@ -1,5 +1,5 @@
 {
-  "name": "@vue/cli-plugin-for-mpvue",
+  "name": "vue-cli-plugin-for-mpvue",
   "version": "1.0.0",
   "main": "index.js",
   "author": "youngdze <youngdze94@gmail.com>",
